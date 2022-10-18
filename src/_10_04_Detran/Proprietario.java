@@ -1,4 +1,4 @@
-package _10_04_Criando_Nomeando_Chamando_Metodos;
+package _10_04_Detran;
 
 public class Proprietario {
     String nome, cpf, cep;
